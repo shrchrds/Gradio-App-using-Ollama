@@ -1,6 +1,6 @@
 # Gradio App using Ollama
 
-Steps to run App
+### Steps to run App
 
 `pip install -r requirements.txt`
 
